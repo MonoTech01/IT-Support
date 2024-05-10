@@ -1,4 +1,4 @@
-# Notes
+# Note
 - A USB is needed for this setup!
 
 # My thoughts - From my experiences!
