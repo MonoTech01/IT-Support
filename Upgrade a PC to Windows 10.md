@@ -1,5 +1,5 @@
 # Note
-- A USB is needed for this setup!
+- A empty USB is needed for this setup!
 - 2 methods will be mentioned in this guideline. The first one (USB flash drive) is easier than the second one (ISO file). However, both of them are easy to perform!
 
 # My thoughts - From my experiences!
