@@ -54,7 +54,7 @@ The installation process will begin.
 
 4. Set Up Your PC
 
-# Method 2: Using ISO file, but putting the file in usb instead of a DVD by using Rufus.
+# Method 2: Using ISO file, but putting the file in a USB instead of a DVD by using Rufus.
 
 What is ISO file? An ISO file is a digital archive/copy of a CD, DVD, or Blu-ray disc = contents inside a CD, DVD, Blu-ray disc. It's a single file that stores everything on the disc, making it handy for things like installing programs or backing up data.
 
