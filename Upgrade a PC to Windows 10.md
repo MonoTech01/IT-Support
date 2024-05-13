@@ -3,6 +3,7 @@
 - 2 methods will be mentioned in this guideline. The first one (USB flash drive) is easier than the second one (ISO file). However, both of them are easy to perform!
 - If you have your usb, just stick with the method 1 because Microsoft will support you to set up Windows automatically, and you do not need to use Rufus or anything else => Ready to go!
 - If you want to use your DVD, please choose option 2 and no need to to use Rufus!
+- You can use Linux ISO file to install Linux in you VM, just mount it! Check my Ubuntu installation (in Linux repository) for more details.
 
 # My thoughts - From my experiences!
 - Although I know that a lot of people do not like Win 11, I encourage you to use Win 11 because Win 10 will be no longer supported by Microsoft in October 2025. This means there will not have security updates or technical supports for Win 10 from Microsoft.
