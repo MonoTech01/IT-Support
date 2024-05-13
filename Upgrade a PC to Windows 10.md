@@ -2,7 +2,7 @@
 - A empty USB is needed for this setup!
 - 2 methods will be mentioned in this guideline. The first one (USB flash drive) is easier than the second one (ISO file). However, both of them are easy to perform!
 - If you have your usb, just stick with the method 1 because Microsoft will support you to set up Windows automatically, and you do not need to use Rufus or anything else => Ready to go!
-- If you want to use your DVD, please choose option 2 and no need to to use Rufus!
+- If you want to use your DVD :dvd:, please choose option 2 and no need to to use Rufus!
 - You can use Linux ISO file to install Linux in you VM, just mount it! Check my Ubuntu installation (in Linux repository) for more details.
 
 # My thoughts - From my experiences!
@@ -54,7 +54,7 @@ The installation process will begin.
 
 4. Set Up Your PC
 
-# Method 2: Using ISO file, but putting the file in a USB instead of a DVD by using Rufus.
+# Method 2: Using ISO file, but putting the file in a USB instead of a DVD :dvd: by using Rufus.
 
 What is ISO file? An ISO file is a digital archive/copy of a CD, DVD, or Blu-ray disc = contents inside a CD, DVD, Blu-ray disc. It's a single file that stores everything on the disc, making it handy for things like installing programs or backing up data.
 
