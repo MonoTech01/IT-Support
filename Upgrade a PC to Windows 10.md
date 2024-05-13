@@ -23,7 +23,7 @@ Link: https://www.microsoft.com/en-us/software-download/windows10
 ![Win](/Images/pic5.png)
 ![Win](/Images/pic6.png)
 
-## Upgrade Win 10 in a computer
+## Step 3: Upgrade Win 10 in a computer
 1. Restart and Enter Setup:
    
 Restart your computer.
@@ -46,6 +46,4 @@ Delete all partitions except for "Drive 0 Unallocated Space" and format the driv
 
 The installation process will begin.
 
-4. Set Up Your PC:
-
-Create a new user account by filling in the required information.
+4. Set Up Your PC
