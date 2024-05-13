@@ -23,7 +23,7 @@ Link: https://www.microsoft.com/en-us/software-download/windows10
 ![Win](/Images/pic5.png)
 ![Win](/Images/pic6.png)
 
-- What's in your USB now after the installation
+- What's in your USB after the installation?
 
 ![Win](/Images/pic1.1.png)
 
@@ -42,7 +42,7 @@ In BIOS/UEFI setup, change the boot order to prioritize your USB flash drive.
 
 Follow the on-screen prompts to choose language, time zone, and keyboard settings.
 
-Enter your product key when prompted.
+Enter your product key.
 
 Choose "Custom" installation for a clean install. Delete all partitions except for "Drive 0 Unallocated Space" and format the drive if needed.
 
