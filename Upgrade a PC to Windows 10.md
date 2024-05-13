@@ -10,7 +10,7 @@
 - My Surface Pro 7 sometimes started freezing and running slow after upgrading to Windows 11...Then, I contacted Microsoft supporters to ask about this issue and wanted to downgrade from Win 11 to 10. However, when I know about the end of life of Win 10, I changed my mind. I decided to stick with Win 11 and have continued updating features and fixes of Win 11. Hopefully, Win 11 will get better over time.
 - All my devices are using Win 11, I do not have any problems of using VM or anything else so far! Upgrading from Win 10 to 11 is extremely easy, all you need is just click "Download and Install" option in Win updates. If you do not like Win 11, you have an option to go back Win 10 effortlessly supported by Microsoft within 10 days of the upgrade. This means another button must be clicked and there you go!
 - Why do I tell you that story? Because I want you to know that the new technology supports you to update or upgrade Win easily....However, It will be a different story to upgrade from Win 7 to Win 10. That is why we need this guideline! Let's gooooooooooo!
-- I had an idea to do this instruction due to a task in my work. I was asked to upgrade from Win 7 to Win 10. Luckily, my coworkers gave me a usb having Win 10 ISO inside. But, what if, you do not have nice coworkers like mine, what will you do? You need to do it from scratch! No worries, we will have some fun from here! Let's goooooooo again :smiley:
+- I had an idea to do this instruction due to a task in my work. I was asked to upgrade from Win 7 to Win 10. Luckily, my coworkers gave me a usb having Win 10 ISO file inside. But, what if, you do not have nice coworkers like mine, what will you do? You need to do it from scratch! No worries, we will have some fun from here! Let's goooooooo again :smiley:
 
 # Method 1: USB Flash Drive 
 ## Step 1: 
@@ -56,7 +56,7 @@ The installation process will begin.
 
 # Method 2: Using ISO file, but putting the file in usb instead of a DVD by using Rufus.
 
-What is ISO file? An ISO file is a digital archive/copy of a CD, DVD, or Blu-ray disc. It's a single file that stores everything on the disc, making it handy for things like installing programs or backing up data.
+What is ISO file? An ISO file is a digital archive/copy of a CD, DVD, or Blu-ray disc = contents inside a CD, DVD, Blu-ray disc. It's a single file that stores everything on the disc, making it handy for things like installing programs or backing up data.
 
 # Step 1
 - Download and install Rufus. Rufus is a tool used to create bootable USB drives easily.
@@ -77,6 +77,7 @@ Link: https://rufus.ie/en/
 # Step 3
 
 - Select the file in Rufus. Then, choose your preferable options and "Start" the process. Make sure that your usb is empty or Rufus will delete all your data in there anyways.
+  
 ![Win](/Images/pic11.png)
 
 ![Win](/Images/pic12.png)
