@@ -70,7 +70,7 @@ Link: https://rufus.ie/en/
 
 ![Win](/Images/pic9.png)
 
-- Then, you will se this file in your chosen folder.
+- Then, you will see this file in your chosen folder.
   
 ![Win](/Images/pic10.png)
 
