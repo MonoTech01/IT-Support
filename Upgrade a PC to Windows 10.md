@@ -55,3 +55,20 @@ The installation process will begin.
 
 What is ISO file? An ISO file is a digital archive/copy of a CD, DVD, or Blu-ray disc. It's a single file that stores everything on the disc, making it handy for things like installing programs or backing up data.
 
+# Step 1
+- Download and install Rufus. Rufus is a tool used to create bootable USB drives easily.
+Link: https://rufus.ie/en/
+
+# Step 2
+- Download the media creation tool. Choose option "ISO file".
+
+# Step 3
+
+Select the file in Rufus. Then, choose your preferable options and "Start" the process. Make sure that your usb is empty or Rufus will delete all your data in there anyways.
+
+# Step 4
+After finishing step 3, you should check your usb, the result should be the same as method 1. 
+
+# Step 5
+Repeat Step 3 and Step 4 in method 1.
+
