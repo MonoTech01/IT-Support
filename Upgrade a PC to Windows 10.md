@@ -23,6 +23,10 @@ Link: https://www.microsoft.com/en-us/software-download/windows10
 ![Win](/Images/pic5.png)
 ![Win](/Images/pic6.png)
 
+- What's in your USB now after the installation
+
+![Win](/Images/pic1.1.png)
+
 ## Step 3: Upgrade Win 10 in a computer
 1. Restart and Enter Setup:
    
