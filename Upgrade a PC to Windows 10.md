@@ -38,11 +38,9 @@ In BIOS/UEFI setup, change the boot order to prioritize your USB flash drive.
 
 Follow the on-screen prompts to choose language, time zone, and keyboard settings.
 
-Enter your product key when prompted (or skip for now).
+Enter your product key when prompted.
 
-Choose "Custom" installation for a clean install.
-
-Delete all partitions except for "Drive 0 Unallocated Space" and format the drive if needed.
+Choose "Custom" installation for a clean install. Delete all partitions except for "Drive 0 Unallocated Space" and format the drive if needed.
 
 The installation process will begin.
 
