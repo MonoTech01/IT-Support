@@ -1,6 +1,6 @@
 # Note
 - A USB is needed for this setup!
-- 2 methods will be mentioned in this guideline. The first one is easier than the second one. However, both of them are easy to perform!
+- 2 methods will be mentioned in this guideline. The first one (USB flash drive) is easier than the second one (ISO file). However, both of them are easy to perform!
 
 # My thoughts - From my experiences!
 - Although I know that a lot of people do not like Win 11, I encourage you to use Win 11 because Win 10 will be no longer supported by Microsoft in October 2025. This means there will not have security updates or technical supports for Win 10 from Microsoft.
