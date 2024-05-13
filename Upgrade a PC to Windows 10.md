@@ -12,7 +12,9 @@
 ## Step 1: 
 - Download the media creation tool.
 Link: https://www.microsoft.com/en-us/software-download/windows10
-
+## Step 2
+- Install
+  
 ![Win](/Images/pic0.png)
 ![Win](/Images/pic1.png)
 ![Win](/Images/pic2.png)
@@ -21,3 +23,29 @@ Link: https://www.microsoft.com/en-us/software-download/windows10
 ![Win](/Images/pic5.png)
 ![Win](/Images/pic6.png)
 
+## Upgrade Win 10 in a computer
+1. Restart and Enter Setup:
+   
+Restart your computer.
+
+During startup, press the key to enter BIOS/UEFI setup (often Delete, F2, F10, or Esc). Look for a message on the boot screen indicating the key.
+
+3. Boot from USB Drive:
+
+In BIOS/UEFI setup, change the boot order to prioritize your USB flash drive.
+
+3. Install Windows 10:
+
+Follow the on-screen prompts to choose language, time zone, and keyboard settings.
+
+Enter your product key when prompted (or skip for now).
+
+Choose "Custom" installation for a clean install.
+
+Delete all partitions except for "Drive 0 Unallocated Space" and format the drive if needed.
+
+The installation process will begin.
+
+4. Set Up Your PC:
+
+Create a new user account by filling in the required information.
