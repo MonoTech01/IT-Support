@@ -32,7 +32,7 @@ Link: https://www.microsoft.com/en-us/software-download/windows10
    
 Restart your computer.
 
-During startup, press the key to enter BIOS/UEFI setup (often Delete, F2, F10, or Esc). Look for a message on the boot screen indicating the key.
+During startup, press the key to enter BIOS/UEFI setup (often Delete, F2, F12, or Esc). Look for a message on the boot screen indicating the key.
 
 3. Boot from USB Drive:
 
@@ -49,3 +49,8 @@ Choose "Custom" installation for a clean install. Delete all partitions except f
 The installation process will begin.
 
 4. Set Up Your PC
+
+# Method 2: Using ISO file to install Win 10
+
+What is ISO file? An ISO file is a digital archive/copy of a CD, DVD, or Blu-ray disc. It's a single file that stores everything on the disc, making it handy for things like installing programs or backing up data.
+
