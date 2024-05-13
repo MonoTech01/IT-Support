@@ -11,5 +11,13 @@
 # Method 1: Windows 10 installation media
 ## Step 1: 
 - Download the media creation tool.
+Link: https://www.microsoft.com/en-us/software-download/windows10
 
-Link: https://www.microsoft.com/en-us/software-download/windows10 
+![Win](/Images/pic0.png)
+![Win](/Images/pic1.png)
+![Win](/Images/pic2.png)
+![Win](/Images/pic3.png)
+![Win](/Images/pic4.png)
+![Win](/Images/pic5.png)
+![Win](/Images/pic6.png)
+
