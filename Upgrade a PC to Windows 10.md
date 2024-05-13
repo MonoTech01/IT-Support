@@ -8,8 +8,8 @@
 - Why do I tell you that story? Because I want you to know that the new technology supports you to update or upgrade Win easily....However, It will be a different story to upgrade from Win 7 to Win 10. That is why we need this guideline! Let's gooooooooooo!
 - I had an idea to do this instruction due to a task in my work. I was asked to upgrade from Win 7 to Win 10. Luckily, my coworkers gave me a usb having Win 10 ISO inside. But, what if, you do not have nice coworkers like mine, what will you do? You need to do it from scratch! No worries, we will have some fun from here! Let's goooooooo again :smiley:
 
-Method 1: Windows 10 installation media
-# Step 1: 
+# Method 1: Windows 10 installation media
+## Step 1: 
 - Download the media creation tool.
 
 Link: https://www.microsoft.com/en-us/software-download/windows10 
