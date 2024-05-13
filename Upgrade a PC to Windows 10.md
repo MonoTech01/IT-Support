@@ -1,6 +1,8 @@
 # Note
 - A empty USB is needed for this setup!
 - 2 methods will be mentioned in this guideline. The first one (USB flash drive) is easier than the second one (ISO file). However, both of them are easy to perform!
+- If you have your usb, just stick with the method 1 because Microsoft will support you to set up Windows automatically, and you do not need to use Rufus or anything else => Ready to go!
+- If you want to use your DVD, please choose option 2 and no need to to use Rufus!
 
 # My thoughts - From my experiences!
 - Although I know that a lot of people do not like Win 11, I encourage you to use Win 11 because Win 10 will be no longer supported by Microsoft in October 2025. This means there will not have security updates or technical supports for Win 10 from Microsoft.
@@ -60,14 +62,35 @@ What is ISO file? An ISO file is a digital archive/copy of a CD, DVD, or Blu-ray
 Link: https://rufus.ie/en/
 
 # Step 2
-- Download the media creation tool. Choose option "ISO file".
+- Download the media creation tool. Choose option "ISO file" instead of USB flash drive 
+![Win](/Images/pic8.png)
+
+- When you see the "Burn the ISO file to a DVD", just press "finish" because we will put the file in the USB. No need to choose "Open DVD burner".
+
+![Win](/Images/pic9.png)
+
+- Then, you will se this file in your chosen folder.
+  
+![Win](/Images/pic10.png)
 
 # Step 3
 
-Select the file in Rufus. Then, choose your preferable options and "Start" the process. Make sure that your usb is empty or Rufus will delete all your data in there anyways.
+- Select the file in Rufus. Then, choose your preferable options and "Start" the process. Make sure that your usb is empty or Rufus will delete all your data in there anyways.
+![Win](/Images/pic11.png)
+
+![Win](/Images/pic12.png)
+
+![Win](/Images/pic7.png)
+
+- Then, it should be ready!
+
+![Win](/Images/pic13.png)
+
 
 # Step 4
 After finishing step 3, you should check your usb, the result should be the same as method 1. 
+
+![Win](/Images/pic14.png)
 
 # Step 5
 Repeat Step 3 and Step 4 in method 1.
