@@ -51,7 +51,7 @@ The installation process will begin.
 
 4. Set Up Your PC
 
-# Method 2: Using ISO file to install Win 10
+# Method 2: Using ISO file, but putting the file in usb instead of a DVD by using Rufus.
 
 What is ISO file? An ISO file is a digital archive/copy of a CD, DVD, or Blu-ray disc. It's a single file that stores everything on the disc, making it handy for things like installing programs or backing up data.
 
