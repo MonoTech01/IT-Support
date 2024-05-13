@@ -97,3 +97,5 @@ After finishing step 3, you should check your usb, the result should be the same
 # Step 5
 Repeat Step 3 and Step 4 in method 1.
 
+# Note: You can set up the Win on your computer without internet to speed up the process without updating some stuffs.
+
