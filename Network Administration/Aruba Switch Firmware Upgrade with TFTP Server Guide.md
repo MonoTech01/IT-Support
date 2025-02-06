@@ -1,4 +1,4 @@
-# 🚀 Aruba Switch Firmware Upgrade with TFTP Guide
+# 🚀 Switch Firmware Upgrade with TFTP Guide
 
 ## 📌 Step-by-Step Process  
 
