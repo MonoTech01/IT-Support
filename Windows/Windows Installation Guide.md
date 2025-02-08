@@ -3,9 +3,7 @@
 - A **USB flash drive** is required for this setup.
 - Two installation methods are covered in this guide:
   - **Method 1 (USB Flash Drive):** Easier and recommended for most users, as Microsoft provides an automated setup process.
-  - **Method 2 (ISO File):** Ideal for advanced users or those installing via DVD.
-- If you have a USB, stick with **Method 1** since Microsoft’s tool will set up Windows automatically, eliminating the need for third-party tools like Rufus.
-- If you are using a **DVD** :dvd:, select **Method 2**—no need for Rufus.
+  - **Method 2 (ISO File):** Using ISO File on USB via Rufus. It typically involves a DVD but will be demonstrated using a USB in this guide.
 - For Linux installation, simply mount the **ISO file** in your VM. Refer to my **Ubuntu installation guide** in the Linux repository for more details.
 
 ## 💭 My Thoughts - From My Experience!
@@ -57,7 +55,7 @@ The installation process will begin.
 
 4. Set Up Your PC
 
-# Method 2: Using ISO file, but putting the file in a USB instead of a DVD :dvd: by using Rufus.
+# Method 2: Using ISO File on USB via Rufus
 
 What is ISO file? An ISO file is a digital archive/copy of a CD, DVD, or Blu-ray disc = contents inside a CD, DVD, Blu-ray disc. It's a single file that stores everything on the disc, making it handy for things like installing programs or backing up data.
 
