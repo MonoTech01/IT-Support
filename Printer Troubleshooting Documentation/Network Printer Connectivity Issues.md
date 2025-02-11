@@ -6,7 +6,7 @@
 - For wireless printers:
   - Check that the printer is connected to the **correct Wi-Fi network (SSID)**.
   - Ensure the printer is within **range of the wireless access point**.
-  - If the signal is weak, consider using a **wireless repeater** or moving the printer closer to the router.
+  - If the signal is weak, consider using a **wireless repeater** or moving the printer closer to the AP.
 
 ### **Step 2: Verify Network Settings**
 - Confirm that the printer has a **valid IP address**:
